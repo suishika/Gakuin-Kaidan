@@ -1,7 +1,7 @@
 ## 关于这款游戏  
 水枝夏动漫社于2013年制作的恐怖解谜题材RPG，继前作《头等大楼》之后在立绘、语音等制作方面的水平有所提高。  
 
-## 游玩
+## 游玩画面
 
 <img src="https://wx3.sinaimg.cn/large/98375affgy1fx54o8roa2j20g40c379n.jpg" width="70%" />  
 
