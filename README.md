@@ -1,6 +1,13 @@
 ## 关于这款游戏  
 水枝夏动漫社于2013年制作的恐怖解谜题材RPG，继前作《头等大楼》之后在立绘、语音等制作方面的水平有所提高。  
 
+## 游玩画面  
+</p><figure class=\"third\">
+  <img src=\"https://wx3.sinaimg.cn/large/98375affgy1fx54o8roa2j20g40c379n.jpg\" width=\"30%\">
+  <img src=\"https://wx2.sinaimg.cn/large/98375affgy1fx54oc84y9j20gj0cdaep.jpg\" width=\"30%\">
+  <img src=\"https://wx3.sinaimg.cn/large/98375affgy1fx54ogwpwqj20gn0chtc1.jpg\" width=\"30%\">
+</figure><p>
+
 ## Story    
 -呐，你听说怪谈么？  
 -怪谈？  
