@@ -5,11 +5,11 @@
 
 <div align=center>
  <img src="https://wx3.sinaimg.cn/large/98375affgy1fx54o8roa2j20g40c379n.jpg" width="70%" />
-</div>
+</div>  
 <center class="half">
   <img src="https://wx2.sinaimg.cn/large/98375affgy1fx54oc84y9j20gj0cdaep.jpg" width="70%" />
   <img src="https://wx3.sinaimg.cn/large/98375affgy1fx54ogwpwqj20gn0chtc1.jpg" width="70%" />
-</center>
+</center>  
 
 ## Story    
 -呐，你听说怪谈么？  
