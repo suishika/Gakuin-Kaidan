@@ -3,9 +3,9 @@
 
 ## 游玩画面  
 <figure class="third">
-  <img src="https://wx3.sinaimg.cn/large/98375affgy1fx54o8roa2j20g40c379n.jpg" width="33%" />
-  <img src="https://wx2.sinaimg.cn/large/98375affgy1fx54oc84y9j20gj0cdaep.jpg" width="33%" />
-  <img src="https://wx3.sinaimg.cn/large/98375affgy1fx54ogwpwqj20gn0chtc1.jpg" width="33%" />
+  <img src="https://wx3.sinaimg.cn/large/98375affgy1fx54o8roa2j20g40c379n.jpg" width="60%" />
+  <img src="https://wx2.sinaimg.cn/large/98375affgy1fx54oc84y9j20gj0cdaep.jpg" width="60%" />
+  <img src="https://wx3.sinaimg.cn/large/98375affgy1fx54ogwpwqj20gn0chtc1.jpg" width="60%" />
 </figure>
 
 ## Story    
