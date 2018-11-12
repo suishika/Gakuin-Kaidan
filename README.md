@@ -3,8 +3,8 @@
 
 ## 游玩
 
-<div style="align: center">
-  <img src="https://wx3.sinaimg.cn/large/98375affgy1fx54o8roa2j20g40c379n.jpg" width="70%" />
+<div align=center>
+ <img src="https://wx3.sinaimg.cn/large/98375affgy1fx54o8roa2j20g40c379n.jpg" width="70%" />
 </div>
 <center class="half">
   <img src="https://wx2.sinaimg.cn/large/98375affgy1fx54oc84y9j20gj0cdaep.jpg" width="70%" />
